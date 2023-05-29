@@ -25,3 +25,5 @@ console.log(`
        his  loggedaccount is: ${isLoggedInFromGoogle}
 
 `);
+console.log("welcome");
+console.log("name is vimal");
